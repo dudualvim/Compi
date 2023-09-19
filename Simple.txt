@@ -10,5 +10,4 @@
 55 goto 40
 60 let m = s / n
 65 print m
-70 end  
-80 input n
+70 end
